@@ -3,7 +3,7 @@
 const CACHE_NAME = 'My CV',
   urlsToCache = [
     './',
-    'http://localhost:8080/curriculum/index.html',
+    'https://thevyper69.github.io/curriculumv1/index.html',
     './css/bootstrap.css',
     './Service_Worker.js',
     './img/qr_512.png',
